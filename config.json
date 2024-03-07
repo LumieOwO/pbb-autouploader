@@ -1,0 +1,14 @@
+{
+    "GAME_UPLOADING_COOKIE": "",
+    "MAIN_MODULE_UPLOADING_COOKIE": "",
+    "MAIN_MODULE_UPLOADING_GROUPID": "",
+    "COMMUNITY_GROUP_ID": 0,
+    "GAME_NAME": "Brick Bronze || Bronze Legends",
+    "GAME_DESCRIPTION": "MainTHE GAME OF LIFE showcases a beautifully rendered digital game board, cards and spinner that capture the fun of the Classic game full of adventure & surprises! THE GAME OF LIFE will take players on a journey where fortunes can be won…and lost!    \n\n\n\n\n\n\n TAGS: Pokemon, Project Bronze Reborn, Pokemon Brick Bronze, Rokemon Brick Bronze, Project Bronze, Project Brick Bronze, Pokemon Breeze, Project Pokemon, Project Bronze Forever, Project Pokemon, Project, Pokemon, Brick Bronze, Anime, Monster, Pet, Simulator, Brick Bronze, Pokemon, Project Bronze Reborn, Pokemon Brick Bronze, Project Ultima, Pokemon, ULTIMA Charizard, Pikachu",
+    "MAX_SERVER_SIZE": "15",
+    "ICON_FILE_PATH": "./icons/logo.jpg",
+    "THUMBNAIL_FILE_PATH": "./icons/thumbnail.jpg",
+    "GAME_FILE_PATH": "./files/main.rbxl",
+    "DISGUISE_FILE_PATH": "./files/maintp.rbxl",
+    "MAIN_MODULE_FILE_PATH": "./files/MainModule.rbxm"
+  }
